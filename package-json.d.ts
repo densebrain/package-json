@@ -1,3 +1,4 @@
+declare module "package-json" {
 export interface IPackageJSON extends Object {
 
   readonly name: string;
@@ -124,4 +125,5 @@ export interface IRepository {
 
 export interface IScriptsMap {
   [scriptName: string]: string;
+}
 }
