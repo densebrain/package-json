@@ -1,6 +1,7 @@
 {
-  "name": "@types/package-json",
+  "name": "@densebrain/package-json",
   "version": "1.0.0",
-  "author": "Iain Reid",
-  "types": "package-json.d.ts"
+  "author": "Jonathan Glanz",
+  "types": "package-json.d.ts",
+  "main": "index.js"
 }
